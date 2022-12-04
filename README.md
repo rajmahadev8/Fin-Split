@@ -25,6 +25,7 @@
 ### 🐞 Challenges we ran into
 - It was challenging for us to put up security measures to safeguard user information from unauthorized users, as well as CORS policies to let authorized users access to our API endpoints.
 - Using a jsonwebtoken for authorization was a bit typical for us as we were trying out this method for the first time.
+- Working with complicated data structures in MongoDB was quite challenging, but the "mongoose" package made the work simple.
 
 ### 😎 Accomplishments that we're proud of
 - We found solutions to issues that actually exist in the world and affect us in our daily lives.
@@ -38,4 +39,13 @@
 
 ### ✨ What's next for FinSplit
 - Creating the app's own crypto currency and making a single click settlement within app.
+
+### Demo
+
+![5  Landing Page](https://user-images.githubusercontent.com/54361799/205486757-dd1c0454-b281-4965-bdbe-81cdd81b5a95.jpeg)
+![4  Features](https://user-images.githubusercontent.com/54361799/205486758-42a06d8d-b479-42fa-b6e3-9bd5d4f6839f.jpeg)
+![3  Expenses](https://user-images.githubusercontent.com/54361799/205486759-05be43f5-f699-47d2-9617-1103892b2678.png)
+![Expenses](https://user-images.githubusercontent.com/54361799/205486760-448fc4d9-5eeb-4528-aced-25dd0f192c55.jpeg)
+![2  Groups](https://user-images.githubusercontent.com/54361799/205486763-1def4193-a49c-4418-a67f-cd3cbe3156db.jpeg)
+![1  Dashboard](https://user-images.githubusercontent.com/54361799/205486764-f45b84fd-85d5-498e-b25c-88f0ef039c96.jpeg)
 
